@@ -1,0 +1,6 @@
+Pod ktory z podanych numerow powinienes zadzwonic, 
+aby wezwac karetke pogotowia ratunkowego na miejsce wypadku drogowego?
+A. 997
+B. 998
+C. 112 lub 999
+C

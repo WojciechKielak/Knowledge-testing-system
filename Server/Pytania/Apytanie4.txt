@@ -1,0 +1,6 @@
+Jaki minimalny odstep powinien byc zachowany
+miedzy kolumnami motorowerow?
+A. 100 metrow.
+B. 200 metrow.
+C. 500 metrow.
+B

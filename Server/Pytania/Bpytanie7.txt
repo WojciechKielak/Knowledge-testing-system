@@ -1,0 +1,5 @@
+Czy jako kierujacy mozesz oddalic sie od pojazdu, 
+ktorego silnik jest w ruchu?
+A. TAK
+B. NIE
+B

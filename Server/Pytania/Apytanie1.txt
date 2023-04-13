@@ -1,0 +1,5 @@
+Czy masz prawo holowac motocyklem inny motocykl?
+A. Tak, za pomoca polaczenia gietkiego umozliwiajacego latwe odczepienie.
+B. Tak, za pomoca polaczenia gietkiego wykluczajacego mozliwosc odczepienia.
+C. Tak, za pomoca polaczenia sztywnego umozliwiajacego latwe odczepienie.
+A
