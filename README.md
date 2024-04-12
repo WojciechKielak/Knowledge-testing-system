@@ -3,7 +3,7 @@ Celem projektu jest stworzenie systemu testowego, umożliwiającego użytkowniko
 
 Konsola Client przyjmuje wszystkie komendy. W obu okienkach wypisywane są pytania. Pytania przechowuje serwer i on je wysyła do klienta. W Serwerze dodatkowo wyświetlane jest odliczanie. Po upłynięciu 30 sekund serwer zamyka odbieranie odpowiedzi.
 
-Wpisanie danych do konsoli Klient:
+Wpisanie danych do konsoli Client:
 
 ![image](https://github.com/WojciechKielak/Knowledge-testing-system/assets/120566154/221fec5e-6e2e-4d89-865d-76d7461b62d0)
 
